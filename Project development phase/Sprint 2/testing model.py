@@ -422,7 +422,7 @@ cv2.destroyAllWindows()
 1/1 [==============================] - 0s 15ms/step
 ---------------------------------------------------------------------------
 KeyboardInterrupt                         Traceback (most recent call last)
-e:\Project\\drive\mydrive\dataset.ipynb Cell 44' in ()
+e:\Project\drive\mydrive\dataset.ipynb Cell 44' in ()
       7 index=['A','B','C','D','E','F','G','H','I']
       8 while 1:
 ----> 9     succes,frame=video.read()
