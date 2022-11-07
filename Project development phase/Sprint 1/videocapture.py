@@ -8,7 +8,7 @@ class Video(object):
 		self.video = cv2.VideoCapture(0)
 		self.roi_start = (50, 150)
 		self.roi_end = (250, 350)
-		self.model = load_model('asl_model.h5') # Execute Local Trained Model
+		self.model = load_model('Realtime.h5') # Execute Local Trained Model
 		# self.model = load_model('IBM_Communication_Model.h5') # Execute IBM Trained Model
 		self.index=['A','B','C','D','E','F','G','H','I']
 		self.y = None
