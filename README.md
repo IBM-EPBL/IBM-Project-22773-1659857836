@@ -1,0 +1,24 @@
+# IBM-Project-22773-1659857836
+Real-Time Communication System Powered by AI for Specially Abled
+#This repository contains the coding Assignments and Course Deliverables done as follows for this Project.
+DATA COLLECTION
+
+IMAGE PREPROCESSING
+
+MODEL BUILDING
+
+TEST THE MODEL
+
+APPLICATION BUILDING
+
+TRAIN CNN MODEL ON IBM
+
+IDEATION PHASE
+
+PROJECT DESIGN PHASE – I
+
+PROJECT DESIGN PHASE -II
+
+PROJECT PLANNING PHASE
+
+PROJECT DEVELOPMENT PHASE
