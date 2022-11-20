@@ -1,5 +1,6 @@
 # IBM-Project-22773-1659857836
 Real-Time Communication System Powered by AI for Specially Abled
+
 #This repository contains the coding Assignments and Course Deliverables done as follows for this Project.
 DATA COLLECTION
 
