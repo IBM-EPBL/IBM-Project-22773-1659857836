@@ -1,1 +1,11 @@
 
+IN THIS MODEL BUILDING FILE CONSISTS OF
+
+import the required model buildings
+intialise the model
+Add the convolution layer
+Add the pooling layer
+Add the flatten layer
+Add the dense layer
+compile the model
+fit and save the model
